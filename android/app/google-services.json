@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "954888224491",
+    "project_id": "ace-time-mike",
+    "storage_bucket": "ace-time-mike.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954888224491:android:f4eede0883a8fc93c488ae",
+        "android_client_info": {
+          "package_name": "com.example.ace_time"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDchyN_A1XGs7idqCKfjy0QggGrM-qh75g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
